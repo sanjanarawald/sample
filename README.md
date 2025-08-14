@@ -6,6 +6,12 @@ Live demo → https://sample-rdl5.vercel.app/chat
 
 ---
 
+## Images generation
+
+<img src="https://github.com/user-attachments/assets/1fd59f58-9d5c-4c76-815b-8c0f7559fe9c" alt="tokyo" width="300" height="300">
+
+<img src="https://github.com/user-attachments/assets/eb0c37a4-5957-4b14-a727-10d78b7090c9" alt="lily" width="300" height="300">
+
 ## ✨ Features
 
 * **Text & Image generation** using Google Gemini (1.5 Flash for text, 2.0 Flash preview for images).
@@ -101,6 +107,7 @@ All test artefacts are excluded from production build (`tsconfig.json → exclud
 2. Import in Vercel → add the env vars above.  
 3. Build runs on **Node 20** (enforced via `package.json "engines"`).  
 4. Live URL (demo): https://sample-rdl5.vercel.app
+
 
 ---
 © 2025 ChatGPT-Mobile Clone — MIT Licence
